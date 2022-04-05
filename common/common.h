@@ -2459,6 +2459,8 @@ typedef enum MAV_EVENT_CURRENT_SEQUENCE_FLAGS
 #include "./mavlink_msg_open_drone_id_system.h"
 #include "./mavlink_msg_open_drone_id_operator_id.h"
 #include "./mavlink_msg_open_drone_id_message_pack.h"
+#include "./mavlink_msg_jebi_debug.h"
+#include "./mavlink_msg_jebi_debug_cmd.h"
 
 // base include
 #include "../minimal/minimal.h"
